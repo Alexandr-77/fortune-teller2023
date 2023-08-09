@@ -467,10 +467,12 @@ a {
   .about__subtitle {
     font-size: 18px;
     line-height: 130%;
+    text-align: left;
   }
   .about__text {
     font-size: 15px;
     line-height: 130%;
+    text-align: left;
   }
  
 }
