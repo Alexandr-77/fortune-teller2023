@@ -732,6 +732,9 @@ a {
   .opis__block-item {
     width: 100%;
   }
+  .opis__block-txt {
+    padding: 15px 12px 30px;
+  }
   .opis__ul {
     padding: 0 0 0 15px;
   }
