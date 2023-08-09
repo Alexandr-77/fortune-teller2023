@@ -738,6 +738,9 @@ a {
   .opis__ul {
     padding: 0 0 0 15px;
   }
+  .opis__ul-li {
+    padding-left: 3px;
+  }
 }
 
 
