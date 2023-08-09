@@ -465,9 +465,8 @@ a {
 /* ====== media 450px ====== */
 @media (max-width: 450px) {
   .about__subtitle {
-    font-size: 18px;
+    font-size: 15px;
     line-height: 130%;
-    text-align: left;
   }
   .about__text {
     font-size: 15px;
